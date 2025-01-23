@@ -1,7 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Elliot! 
 
-<!--
-**elliotjonah/elliotjonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Malware Analysis Lab</b>
+  - Install both REMNUX and FlareVM
+  - Perform both STATIC and DYNAMIC Analysis
+- <b>Identify and Remediate Vulnerabilites</b>
+  - Install Metasploitable
+  - Use scanners to find vulnerabilities and create a report</b></i>
+- <b>IDS Network Monitorng</b>
+
+
+
+
+<h2> Certifications</h2>
+-LetsDefend SOC Analyst Learning path
 
 Here are some ideas to get you started:
 

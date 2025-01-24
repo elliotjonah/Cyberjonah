@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Malware Analysis Lab</b>
+- <b>Malware Analysis</b>
   - Install both REMNUX and FlareVM
   - Perform both STATIC and DYNAMIC Analysis
 - <b>Identify and Remediate Vulnerabilites</b>

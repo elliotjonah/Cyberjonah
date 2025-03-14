@@ -40,7 +40,7 @@ Each project includes documentation, configurations, and findings. Click on the 
 ### 🔹 Ransomware Analysis in a Safe Environment
 - **Description:** Analyzing ransomware behavior in an isolated lab setup
 - **Tools:** VirtualBox, Remnux, Windows VM
-- **[Project Repository](#)**
+- **[Project Repository](#)**(https://github.com/elliotjonah/Ransomware-Analysis-in-a-Safe-Environment)
 
 ---
 

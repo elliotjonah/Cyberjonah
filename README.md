@@ -17,7 +17,7 @@ Hi, I'm **Elliot Jonah**, an IT instructor and cybersecurity enthusiast speciali
 ## 🛠 Projects
 Each project includes documentation, configurations, and findings. Click on the links below to explore:
 
-### 🔹 Identifying and Remediating Vulnerabilities
+### 🔹 <Identifying and Remediating Vulnerabilities>
 - **Description:** Detecting security vulnerabilities and applying remediation techniques
 - **Tools:** Nessus, OpenVAS, Kali Linux
 - **[Project Repository](#)**

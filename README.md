@@ -20,7 +20,7 @@ Each project includes documentation, configurations, and findings. Click on the 
 ### 🔹 Identifying and Remediating Vulnerabilities
 - **Description:** Detecting security vulnerabilities and applying remediation techniques
 - **Tools:** Nessus, OpenVAS, Kali Linux
-- **<h1>[Project Repository]</h1>(#)**
+- **[Project Repository](#)**
 
 ### 🔹 Network Traffic Analysis with Wireshark
 - **Description:** Analyzing PCAP files for malware detection

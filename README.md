@@ -27,6 +27,11 @@ Each project includes documentation, configurations, and findings. Click on the 
 - **Tools:** Nessus, OpenVAS, Kali Linux
 - **[Project Repository](https://github.com/elliotjonah/Identifying-and-Remediating-Vulnerabilities)**
 
+### 🔹 Intrusion Detection System (IDS) using Snort
+- **Description:** Deploying Zeek/Snort to detect network intrusions
+- **Tools:** Zeek, Snort, Linux VM
+- **[Project Repository](https://github.com/elliotjonah/Intrusion-Detection-System-IDS-using-Snort)**
+
 ### 🔹 Network Traffic Analysis with Wireshark
 - **Description:** Analyzing PCAP files for malware detection
 - **Tools:** Wireshark, Xubuntu VM
@@ -37,10 +42,6 @@ Each project includes documentation, configurations, and findings. Click on the 
 - **Tools:** pfSense, Virtual Machines
 - **[Project Repository](#)**
 
-### 🔹 Intrusion Detection System (IDS) using Snort
-- **Description:** Deploying Zeek/Snort to detect network intrusions
-- **Tools:** Zeek, Snort, Linux VM
-- **[Project Repository](#)**
 
 
   

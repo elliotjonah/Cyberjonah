@@ -17,6 +17,11 @@ Hi, I'm **Elliot Jonah**, an IT instructor and cybersecurity enthusiast speciali
 ## 🛠 Projects
 Each project includes documentation, configurations, and findings. Click on the links below to explore:
 
+### 🔹 Ransomware Analysis in a Safe Environment
+- **Description:** Analyzing ransomware behavior in an isolated lab setup
+- **Tools:** VirtualBox, Remnux, Windows VM
+- **[Project Repository](#)**(https://github.com/elliotjonah/Ransomware-Analysis-in-a-Safe-Environment)
+
 ### 🔹 Identifying and Remediating Vulnerabilities
 - **Description:** Detecting security vulnerabilities and applying remediation techniques
 - **Tools:** Nessus, OpenVAS, Kali Linux
@@ -37,10 +42,7 @@ Each project includes documentation, configurations, and findings. Click on the 
 - **Tools:** Zeek, Snort, Linux VM
 - **[Project Repository](#)**
 
-### 🔹 Ransomware Analysis in a Safe Environment
-- **Description:** Analyzing ransomware behavior in an isolated lab setup
-- **Tools:** VirtualBox, Remnux, Windows VM
-- **[Project Repository](#)**(https://github.com/elliotjonah/Ransomware-Analysis-in-a-Safe-Environment)
+
 
 ---
 

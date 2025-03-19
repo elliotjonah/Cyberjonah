@@ -37,7 +37,7 @@ Each project includes documentation, configurations, and findings. Click on the 
 - **Tools:** pfSense, Virtual Machines
 - **[Project Repository](#)**
 
-### 🔹 Intrusion Detection System (IDS) using Zeek/Snort
+### 🔹 Intrusion Detection System (IDS) using Snort
 - **Description:** Deploying Zeek/Snort to detect network intrusions
 - **Tools:** Zeek, Snort, Linux VM
 - **[Project Repository](#)**

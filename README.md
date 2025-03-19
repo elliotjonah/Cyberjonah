@@ -43,7 +43,7 @@ Each project includes documentation, configurations, and findings. Click on the 
 - **[Project Repository](#)**
 
 
-- **[Project Repository](#)**(https://github.com/elliotjonah/Ransomware-Analysis-in-a-Safe-Environment)
+  
 ---
 
 ## 📄 Write-ups & Reports

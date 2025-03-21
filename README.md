@@ -28,8 +28,8 @@ Each project includes documentation, configurations, and findings. Click on the 
 - **[Project Repository](https://github.com/elliotjonah/Identifying-and-Remediating-Vulnerabilities)**
 
 ### 🔹 Intrusion Detection System (IDS) using Snort
-- **Description:** Deploying Zeek/Snort to detect network intrusions
-- **Tools:** Zeek, Snort, Linux VM
+- **Description:** Deploying Snort to detect network intrusions
+- **Tools:** Snort, Linux VMs
 - **[Project Repository](https://github.com/elliotjonah/Intrusion-Detection-System-IDS-using-Snort)**
 
 ### 🔹 Network Traffic Analysis with Wireshark

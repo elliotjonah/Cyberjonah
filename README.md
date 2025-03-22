@@ -24,7 +24,7 @@ Each project includes documentation, configurations, and findings. Click on the 
 
 ### 🔹 Identifying and Remediating Vulnerabilities
 - **Description:** Detecting security vulnerabilities and applying remediation techniques
-- **Tools:** Nessus, OpenVAS, Kali Linux
+- **Tools:** OpenVAS, Kali Linux, Metasploitable 2
 - **[Project Repository](https://github.com/elliotjonah/Identifying-and-Remediating-Vulnerabilities)**
 
 ### 🔹 Intrusion Detection System (IDS) using Snort

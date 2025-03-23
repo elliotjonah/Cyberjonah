@@ -42,30 +42,12 @@ Each project includes documentation, configurations, and findings. Click on the 
 - **Tools:** pfSense, Virtual Machines
 - **[Project Repository](#)**
 
-
-
-  
----
-
-## 📄 Write-ups & Reports
-🔹 **[Wireshark Analysis Report](#)**  
-🔹 **[IDS Implementation Findings](#)**  
-🔹 **[Firewall Logs & Security Assessment](#)**  
-🔹 **[Ransomware Case Study](#)**  
-
----
-
-## 📚 Resources & Learning
-🔹 Recommended Cybersecurity Tools & Labs  
-🔹 Capture The Flag (CTF) Write-ups  
-🔹 [Add more cybersecurity resources here]
-
 ---
 
 ## 📫 Connect With Me
 💻 **GitHub:** [YourGitHubProfile](#)  
-📧 **Email:** [YourEmail@domain.com](#)  
-🔗 **LinkedIn:** [YourLinkedInProfile](#)  
+📧 **Email:** [jonahelliot23@gmail.com](#)  
+🔗 **LinkedIn:** [www.linkedin.com/in/elliot-jonah-2700b3141](#)  
 
 ---
 

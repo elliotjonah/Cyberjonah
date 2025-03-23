@@ -45,7 +45,7 @@ Each project includes documentation, configurations, and findings. Click on the 
 ---
 
 ## 📫 Connect With Me
-💻 **GitHub:** [YourGitHubProfile](#)  
+💻 **GitHub:** [https://github.com/elliotjonah/Cyberjonah](#)  
 📧 **Email:** [jonahelliot23@gmail.com](#)  
 🔗 **LinkedIn:** [www.linkedin.com/in/elliot-jonah-2700b3141](#)  
 
